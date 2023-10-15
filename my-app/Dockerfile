@@ -1,5 +1,5 @@
 
-# specify the default image 
+# specify the default image , this is from the default node js
 FROM node:20-alpine3.17
 
 # specify the current working directory
